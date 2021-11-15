@@ -1,1 +1,1 @@
-My solutions to Introduction to Computer Science (CS50) coursework.
+My solutions to CS50 Introduction to Computer Science coursework.
